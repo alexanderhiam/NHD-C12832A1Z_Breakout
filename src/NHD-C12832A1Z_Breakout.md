@@ -9,6 +9,7 @@
 
 # NHD-C12832A1Z Breakout
 ### A breakout board for  Newhaven Display's [NHD-C12832A1Z series](http://www.digikey.com/scripts/DkSearch/dksus.dll?vendor=0&keywords=NHD-C12832A1Z)
+#### Revision 2
 ---
 
 <div class="br1"></div>
